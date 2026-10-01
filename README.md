@@ -1,16 +1,13 @@
-## Hi there 👋
+# David Tahara
 
-<!--
-**davidctahara/davidctahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+New York-based finance professional with experience in corporate development, M&A, and financial modelling.
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MA, International Relations and Business — New York University
+- BA, Comparative Politics — University of Bergen
+
+## Links
+
+- [Personal Website](https://davidtahara.com)
+- [LinkedIn](https://www.linkedin.com/in/david-tahara-b983a818a/)
