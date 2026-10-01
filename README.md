@@ -10,4 +10,4 @@ New York-based finance professional with experience in corporate development, M&
 ## Links
 
 - [Personal Website](https://davidtahara.com)
-- [LinkedIn](https://www.linkedin.com/in/david-tahara-b983a818a/)
+- [LinkedIn](https://www.linkedin.com/in/david-tahara/)
